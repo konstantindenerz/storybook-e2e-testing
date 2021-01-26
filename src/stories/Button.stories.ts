@@ -18,7 +18,7 @@ const Template: Story<Button> = (args: Button) => ({
 export const Primary = Template.bind({});
 Primary.args = {
   primary: true,
-  label: 'Button',
+  label: 'Bubu',
 };
 
 export const Secondary = Template.bind({});
